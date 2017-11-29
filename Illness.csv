@@ -1,0 +1,101 @@
+ID,Name,Type,Infectious
+1,Acquired immunodeficiency syndrom,Infectious,Yes
+2,Amebiasis,Infectious,Yes
+3,Anaplasmosis,Infectious,Yes
+4,Anthrax,Infectious,Yes
+5,Bacterial pnemonia,Infectious,Yes
+6,Botulism,Infectious,Yes
+7,Bubonic Plague,Infectious,Yes
+8,Carrion's disease,Infectious,Yes
+9,Cat-scratch disease,Infectious,Yes
+10,Cellulitis,Infectious,Yes
+11,Chickenpox,Infectious,Yes
+12,Food poisoning,Infectious,Yes
+13,Hepatitis A,Infectious,Yes
+14,Influenza,Infectious,Yes
+15,Kawasaki disease,Infectious,Yes
+16,Measles,Infectious,Yes
+17,Mumps,Infectious,Yes
+18,Pneumococcal infection,Infectious,Yes
+19,Pnemonia,Infectious,Yes
+20,Sepsis,Infectious,Yes
+21,Smallpox,Infectious,Yes
+22,Toxoplasmosis,Infectious,Yes
+23,Trichinosis,Infectious,Yes
+24,Tuberculosis,Infectious,Yes
+25,Hypercholesterolemia,Infectious,Yes
+26,Polycystic kidney disease,Genetic,No
+27,Neurofibromatosis type I,Genetic,No
+28,Hereditary spherocytosis,Genetic,No
+29,Marfan syndrom,Genetic,No
+30,Huntington's diease,Genetic,No
+31,Sickle cell anaemia,Genetic,No
+32,Cystic fibrosis,Genetic,No
+33,Tay-Sachs disease,Genetic,No
+34,Phenylketonuria,Genetic,No
+35,Mucopolysaccharidoses,Genetic,No
+36,Lysosomal acid lipas deficiency,Genetic,No
+37,Glycogen storage diseases,Genetic,No
+38,Galactosemia,Genetic,No
+39,Duchenne muscular dystrophy,Genetic,No
+40,Hemophilia,Genetic,No
+41,Obesity,Nutritional,No
+42,Goiter,Nutritional,No
+43,Haemochromatosis,Nutritional,No
+44,Kwashiorkor,Nutritional,No
+45,Marasmus,Nutritional,No
+46,Osteoporosis,Nutritional,No
+47,Rickets,Nutritional,No
+48,Tetany,Nutritional,No
+49,Keshan disease,Nutritional,No
+50,Beriberi,Nutritional,No
+51,Pellagra,Nutritional,No
+52,Scurvy,Nutritional,No
+53,Bitot's spots,Nutritional,No
+54,Vitamin A deficiency,Nutritional,No
+55,Vitamin K deficiency,Nutritional,No
+56,Hypervitaminosis A,Nutritional,No
+57,Hypervitaminosis D,Nutritional,No
+58,Hypervitaminosis E,Nutritional,No
+59,Vitamin D deficiency,Nutritional,No
+60,Pyridoxine deficiency,Nutritional,No
+61,Hemochromatosis,Physiological,No
+62,Iron-Deficiency anemia,Physiological,No
+63,Iron-Reutilization Anemia,Physiological,No
+64,Asthma,Physiological,No
+65,Adrenocortical carcinoma,Physiological,No
+66,Alzheimer's disease,Physiological,No
+67,Coeliac disease,Physiological,No
+68,Common cold,Physiological,Yes
+69,Diabetes,Physiological,No
+70,Fatal familial insomnia,Physiological,No
+71,Fluoroquinolone toxicity syndrom,Physiological,No
+72,Glioblastoma,Physiological,No
+73,Joint pain,Physiological,No
+74,Macular degeneration,Physiological,No
+75,Marburg virus,Physiological,No
+76,Multiple sclerosis,Physiological,No
+77,Parkinson's disease,Physiological,No
+78,Progeria,Physiological,No
+79,Polio,Physiological,No
+80,Psoriasis,Physiological,No
+81,Rheumatoid arthritis,Physiological,No
+82,Schizophrenia,Physiological,No
+83,Scoliosis,Physiological,No
+84,Spinocerebellar ataxa,Physiological,No
+85,Atrial fibrillation,Physiological,No
+86,Atrial flutter,Physiological,No
+87,Heart block,Physiological,No
+88,Hemorrhagic stroke,Physiological,No
+89,Pericarditis,Physiological,No
+90,Gastrointenstinal cancer,Physiological,No
+91,Ileitis,Physiological,No
+92,Diverticular disease,Physiological,No
+93,Diarrhoea,Physiological,No
+94,Carcinoma,Physiological,No
+95,Sarcoma,Physiological,No
+96,Lymphoma,Physiological,No
+97,Leukemia,Physiological,No
+98,Germ cell tumor,Physiological,No
+99,Blastoma,Physiological,No
+100,Astrocytoma,Physiological,No
