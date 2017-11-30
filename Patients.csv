@@ -1,0 +1,103 @@
+ID,Name,Allergies,Blood_Type,Patient_Location,Disease
+200,Kurt Morgan,Penicillin,A,Perryridge,None
+201,Tricia Morton,Sulfonamides,A-,Tarpon Springs,None
+202,Pete Keller,NSAIDs,B ,Tarpon Springs,None
+203,Jan Curtis,None,B+,Orlando,None
+204,Sara Strickland,None,A,Melbourne,Cat-scratch disease
+205,Susan Smith,None,O+,Melbourne,None
+206,Cary Maldonado,Anticonvulsants,A,Southtown,Chicken pox
+207,Henrietta Snyder,Penicillin,A-,Perryridge,Chicken pox
+208,Lorena Myers,None,B-,Orlando,None
+209,Rafael Garrett,None,B+,Orlando,Cat-scratch disease
+210,Gregg Silva,NSAIDs,B,Melbourne,None
+211,Dana Cunningham,None,A,Melbourne,Goiter
+212,Ryan Cooper,None,A-,Southtown,Atrial fibrillation
+213,Abraham Palmer,Sulfonamides,A+,Melbourne,Food poisoning
+214,Aaron Mcbride,None,B,Tarpon Springs,None
+215,Marta Reeves,None,A+,Perryridge,Asthma
+216,Ramon Webb,Penicillin,B-,Perryridge,None
+217,Alvin Barker,None,B+,Southtown,Food poisoning
+218,Marion Adams,None,A-,Melbourne,None
+219,Myron Maldonado,None,B+,Melbourne,Hypervitaminosis E
+220,Doreen Schmidt,None,A,Perryridge,None
+221,Travis Rose,None,B-,Tarpon Springs,Asthma
+222,Lois Park,NSAIDs,B,Southtown,None
+223,Kristi Wagner,None,O+,Orlando,Common cold
+224,Stacy Bareet,Sulfonamides,O ,Southtown,None
+225,Rose Ballard,None,B+,Melbourne,None
+226,Gina Williams,Chemotherapy,A-,Tarpon Springs,Common cold
+227,Vanessa Adams,None,B+,Perryridge,None
+228,Olivia Pope,None,B,Orlando,Osteoporosis
+229,Jody Blake,None,B+,Melbourne,Asthma
+230,Dexter Guzman,None,A,Melbourne,None
+231,Leon Harris,None,B-,Perryridge,Food poisoning
+232,Delores Webb,None,B,Tarpon Springs,None
+233,Dominic Mccoy,NSAIDs,O+,Perryridge,Common cold
+234,Nichole Wise,None,O ,Southtown,Asthma
+235,Lowell Fitzgerald,Sulfonamides,B+,Perryridge,None
+236,Luis Harper,None,A-,Perryridge,Common cold
+237,Marty Adams,Chemotherapy,B+,Orlando,None
+238,Marcia Boyd,None,B,Melbourne,None
+239,Duane Gomez,None,O ,Melbourne,Iron-Deficiency anemia
+240,Edward Cross,None,B+,Perryridge,None
+241,Gretchen Young,None,A-,Tarpon Springs,Osteoporosis
+242,Allan Holt,None,B+,Southtown,None
+243,Verna Ortiz,Anticonvulsants,B,Perryridge,None
+244,Jim Malone,Penicillin,B+,Orlando,Iron-Deficiency anemia
+245,Danny Vasquez,None,A,Orlando,None
+246,Lloyd Jimenez,None,B-,Melbourne,None
+247,Janice Mitchel,NSAIDs,B-,Melbourne,Common cold
+248,Arnold Saunders,Chemotherapy,B+,Southtown,None
+249,Jordan Frazier,None,A-,Orlando,Food poisoning
+250,Jackie Ray,None,B+,Orlando,None
+251,Chelsea Frank,Anticonvulsants,A,Tarpon Springs,Leukemia
+252,Vickie Underwood,None,B-,Tarpon Springs,None
+253,Michael Ferguson,None,A-,Melbourne,None
+254,Abel Colon,None,B+,Melbourne,Food poisoning
+255,Jennifer Wilkins,None,B,Carthage,None
+256,Bradford Harvey,None,O ,Perryridge,None
+257,Andy Martinez,None,O,Carthage,Common cold
+258,Valerie Wilkins,None,B-,Southtown,Osteoporosis
+259,Doug Austin,None,B+,Carthage,Atrial fibrillation
+260,Donna Thompson,None,A-,Southtown,None
+261,Raquel Gonzalez,Sulfonamides,B+,Perryridge,None
+262,Ella Allen,None,A,Orlando,Asthma
+263,Melanie Parks,Chemotherapy,B,Carthage,None
+264,Daisy Medina,None,O+,Orlando,None
+265,Faye Maxwell,None,A,Tarpon Springs,Food poisoning
+266,Elsa Douglas,Anticonvulsants,B,Melbourne,Common cold
+267,Myrtle Burns,None,A-,Perryridge,Common cold
+268,Andy Morales,None,B+,Carthage,None
+269,Regina Santos,None,B,Perryridge,None
+270,Alvin Holloway,Chemotherapy,O ,Carthage,None
+271,Caroline Carlson,None,B+,Orlando,None
+272,Mary Park,None,A-,Southtown,Leukemia
+273,Julia Howard,None,A,Southtown,None
+274,Raquel Bowers,None,B,Carthage,Food poisoning
+275,Bert Sharp,NSAIDs,B+,Orlando,None
+276,Forrest Cooper,None,B,Melbourne,Osteoporosis
+277,Vivian Harrison,None,O ,Melbourne,None
+278,Daisy Welch,None,B+,Perryridge,None
+279,Ian Copeland,None,A-,Carthage,Common cold
+280,Eddie Mclaughlin,Anticonvulsants,B+,Tarpon Springs,Common cold
+281,Marco Palmer,Anticonvulsants,B,Orlando,None
+282,Jeremy Wells,Anticonvulsants,O ,Orlando,None
+283,Sheryl Burton,None,B+,Orlando,None
+284,Erika Massey,None,A-,Perryridge,None
+285,Sylvester Larson,None,A,Southtown,Multiple sclerosis
+286,Marcus Wright,NSAIDs,B,Southtown,None
+287,Lucille Walker,None,B+,Carthage,None
+288,Traci Walters,None,O,Carthage,None
+289,Teri Hampton,Sulfonamides,A,Southtown,Common cold
+290,Tim Klein,None,B-,Melbourne,None
+291,Bridget Clark,None,A-,Tarpon Springs,Common cold
+292,Patrick Kennedy,None,B+,Tarpon Springs,Joint pain
+293,Harvey Burns,Sulfonamides,B,Carthage,None
+294,Joey Moss,None,A,Orlando,None
+295,Roy Herrera,None,A-,Orlando,None
+296,Jeremiah Hayes,NSAIDs,B,Orlando,Osteoporosis
+297,Dana Woods,Sulfonamides,B-,Tarpon Springs,None
+298,Joel Jefferson,None,B+,Tarpon Springs,Common cold
+299,Janice Drake,None,A-,Southtown,Atrial fibrillation
+300,Nichole Barber,Anticonvulsants,B+,Orlando,Joint pain
+301,Kent Malone,None,A,Perryridge,None
