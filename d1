@@ -1,8 +1,8 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE doctor_number(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL
+doctor_ID	int	PRIMARY KEY	NOT NULL,
+doctor_name	text			NOT NULL
 );
 INSERT INTO doctor_number VALUES(1001,'Katie Patterson');
 INSERT INTO doctor_number VALUES(1002,'Barbara Reed');
@@ -108,7 +108,7 @@ INSERT INTO doctor_number VALUES(2002,'Dexter Guzman');
 INSERT INTO doctor_number VALUES(2003,'Leon Harris');
 INSERT INTO doctor_number VALUES(2004,'Delores Webb');
 CREATE TABLE IF NOT EXISTS "doctor_location"(
-ID	int	PRIMARY KEY	NOT NULL,
+doctor_ID	int	PRIMARY KEY	NOT NULL,
 location	text		NOT NULL,
 specialization	text		NOT NULL
 );
@@ -216,9 +216,9 @@ INSERT INTO doctor_location VALUES(2002,'Carthage','Transplant Hepatology');
 INSERT INTO doctor_location VALUES(2003,'Tarpon Springs','Pediatrics');
 INSERT INTO doctor_location VALUES(2004,'Orlando','Radiology');
 CREATE TABLE illness(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
-type	text			NOT NULL,
+illness_ID	int	PRIMARY KEY	NOT NULL,
+disease	text			NOT NULL,
+category	text			NOT NULL,
 infectious	text		NOT NULL
 );
 INSERT INTO illness VALUES(1,'Acquired immunodeficiency syndrom','Infectious','Yes');
@@ -322,8 +322,8 @@ INSERT INTO illness VALUES(98,'Germ cell tumor','Physiological','No');
 INSERT INTO illness VALUES(99,'Blastoma','Physiological','No');
 INSERT INTO illness VALUES(100,'Astrocytoma','Physiological','No');
 CREATE TABLE patients(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
+patient_ID	int	PRIMARY KEY	NOT NULL,
+patient_name	text			NOT NULL,
 blood_type	text		NOT NULL,
 allergies	text		NOT NULL,
 patient_location	text	NOT NULL,

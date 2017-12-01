@@ -1,8 +1,8 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE doctors(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
+doctorID	int	PRIMARY KEY	NOT NULL,
+doctor_name	text			NOT NULL,
 location	text		NOT NULL,
 specialization	text		NOT NULL
 );
@@ -110,8 +110,8 @@ INSERT INTO doctors VALUES(2002,'Dexter Guzman','Carthage','Transplant Hepatolog
 INSERT INTO doctors VALUES(2003,'Leon Harris','Tarpon Springs','Pediatrics');
 INSERT INTO doctors VALUES(2004,'Delores Webb','Orlando','Radiology');
 CREATE TABLE patients(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
+patient_ID	int	PRIMARY KEY	NOT NULL,
+patient_name	text			NOT NULL,
 allergies	text		NOT NULL,
 blood_type	text		NOT NULL,
 patient_location	text	NOT NULL,
@@ -220,9 +220,9 @@ INSERT INTO patients VALUES(299,'Janice Drake','None','A-','Southtown','Atrial f
 INSERT INTO patients VALUES(300,'Nichole Barber','Anticonvulsants','B+','Orlando','Joint pain');
 INSERT INTO patients VALUES(301,'Kent Malone','None','A','Perryridge','None');
 CREATE TABLE illness(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
-type	text			NOT NULL,
+illness_ID	int	PRIMARY KEY	NOT NULL,
+disease	text			NOT NULL,
+category	text			NOT NULL,
 infectious	text		NOT NULL
 );
 INSERT INTO illness VALUES(1,'Acquired immunodeficiency syndrom','Infectious','Yes');

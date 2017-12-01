@@ -1,9 +1,9 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE patient_name(
-ID	int 	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
-location	text		NOT NULL);
+patient_ID	int 	PRIMARY KEY	NOT NULL,
+patient_name	text			NOT NULL,
+patient_location	text		NOT NULL);
 INSERT INTO patient_name VALUES(200,'Kurt Morgan','Perryridge');
 INSERT INTO patient_name VALUES(201,'Tricia Morton','Tarpon Springs');
 INSERT INTO patient_name VALUES(202,'Pete Keller','Tarpon Springs');
@@ -107,10 +107,10 @@ INSERT INTO patient_name VALUES(299,'Janice Drake','Southtown');
 INSERT INTO patient_name VALUES(300,'Nichole Barber','Orlando');
 INSERT INTO patient_name VALUES(301,'Kent Malone','Perryridge');
 CREATE TABLE patient_info(
-ID	int 	PRIMARY KEY	NOT NULL,
+patient_ID	int 	PRIMARY KEY	NOT NULL,
 blood_type	text		NOT NULL,
 allergies	text		NOT NULL,
-location	text		NOT NULL,
+patient_location	text		NOT NULL,
 disease		text		NOT NULL);
 INSERT INTO patient_info VALUES(200,'A','Penicillin','Perryridge','None');
 INSERT INTO patient_info VALUES(201,'A-','Sulfonamides','Tarpon Springs','None');
@@ -215,8 +215,8 @@ INSERT INTO patient_info VALUES(299,'A-','None','Southtown','Atrial fibrillation
 INSERT INTO patient_info VALUES(300,'B+','Anticonvulsants','Orlando','Joint pain');
 INSERT INTO patient_info VALUES(301,'A','None','Perryridge','None');
 CREATE TABLE doctors(
-ID 	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
+doctor_ID 	int	PRIMARY KEY	NOT NULL,
+doctor_name	text			NOT NULL,
 location	text		NOT NULL,
 specialization	text		NOT NULL
 );
@@ -324,9 +324,9 @@ INSERT INTO doctors VALUES(2002,'Dexter Guzman','Carthage','Transplant Hepatolog
 INSERT INTO doctors VALUES(2003,'Leon Harris','Tarpon Springs','Pediatrics');
 INSERT INTO doctors VALUES(2004,'Delores Webb','Orlando','Radiology');
 CREATE TABLE illness(
-ID	int	PRIMARY KEY	NOT NULL,
-name	text			NOT NULL,
-type	text			NOT NULL,
+illness_ID	int	PRIMARY KEY	NOT NULL,
+disease	text			NOT NULL,
+category	text			NOT NULL,
 infectious	text		NOT NULL
 );
 INSERT INTO illness VALUES(1,'Acquired immunodeficiency syndrom','Infectious','Yes');
